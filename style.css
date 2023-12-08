@@ -127,3 +127,114 @@
     line-height: 70px;
   }
   /* card area css end */
+
+  /* development section start */
+
+  .col-md-4 img {
+    width: 400px;
+    height: 403px;
+  }
+  .developement-area-container {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+  }
+  
+.another-div {
+    padding: 100px;
+  }
+  
+.another-div h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #333;
+    line-height: normal;
+  }
+  
+.another-div p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color:#3E3E3E;
+  }
+  .another-div {
+    line-height: 40px;
+  }
+  
+.btn-1 {
+    color: #fff;
+    text-align: center;
+    font-family: revert;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
+ 
+
+  /* development section end */
+  /* global area section start */
+
+  .global-area-container {
+    display: flex;
+    margin-top: 30px;
+  }
+  /* global area section end  */
+  /* corona section start */
+  
+.heading-area {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 74px;
+  }
+  
+.corona-application-col-md-6 img {
+    width: 229px;
+    height: 459px;
+    flex-shrink: 0;
+  }
+  
+.total-inside-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+  }
+  .corona-application-col-md-6 {
+    width: 50%;
+  }
+  
+.corona-text-area h1 {
+    font-size: 48px;
+    line-height: 62.88px;
+    font-weight: 700;
+  }
+  
+.corona-text-area p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 15px;
+  }
+  .corona-text-area btn{
+    margin-top: 15px;
+  }
+  /* corona section end */
+
+  /* footer area start */
+  .footer-area {
+    background-color: #0B0D17;
+  }
+  .conteainer-wrapper {
+    text-align: center;
+    color: #D9DBE1;
+  }
+  
+.conteainer-wrapper span {
+    color: red;
+  }
+  /* footer area end */
