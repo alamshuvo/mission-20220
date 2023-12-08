@@ -78,3 +78,52 @@
   font-style: normal;
 }
   /* header area css end */
+
+  /* card area css start */
+  
+ .card-area-container{
+    margin-top: 20px;
+ }
+.col-md-12-card-area img {
+    width: 126px;
+    height: 126px;
+  }
+  .col-md-12-card-area {
+    display: flex;
+    gap: 30px;
+    width: 100%;
+    margin-top: 20px;
+  }
+  .mission-card {
+    width: 360px;
+    height: 376px;
+    background-color: rgba(79, 157, 166, 0.10);
+    border-radius: 26px;
+    
+  }
+  .vission-card{
+    width: 360px;
+    height: 376px;
+    background-color: rgba(255, 89, 89, 0.10);
+    border-radius: 26px;
+  }
+  .goal-card{
+    width: 360px;
+    height: 376px;
+    background-color: #FFF4D6;
+    border-radius: 26px;
+  }
+  
+.card-area {
+    padding: 36px;
+    margin: 10px 10px;
+  }
+  
+.card-heading {
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px;
+  }
+  /* card area css end */
